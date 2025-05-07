@@ -23,3 +23,30 @@ Boost control mechanics
 Minimalist visuals with focused gameplay
 
 Sound effects and basic UI
+
+
+
+
+▶️ Getting Started
+
+To play or modify the game locally:
+
+Clone the repository:
+
+Open the project in Unity (version X.X.X or later).
+
+Press Play in the Unity Editor to run the game.
+
+
+
+
+
+✅ To Do
+
+Add more levels
+
+Implement checkpoints
+
+Add mobile touch support
+
+Polish UI and animations
